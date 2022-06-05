@@ -6,7 +6,7 @@
 ## 🍿 관련 링크
 
 - 웹사이트: https://www.dalejule.com
-- 깃허브: https://github.com/DaleJule
+- 커뮤니티: https://github.com/orgs/DaleJule/discussions
 - 유튜브: https://www.youtube.com/channel/UCFu2MVcXSZS2_ey-lVqZasA
 
 ## 🌈 기여 방법
