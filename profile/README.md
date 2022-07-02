@@ -7,6 +7,8 @@
 
 - 웹사이트: https://www.dalejule.com
 - 커뮤니티: https://github.com/orgs/DaleJule/discussions
+- 애플 팟케스트: https://podcasts.apple.com/us/podcast/달레줄레/id1632529597
+- 팟빵: https://www.podbbang.com/channels/1784466/
 - 유튜브: https://www.youtube.com/channel/UCFu2MVcXSZS2_ey-lVqZasA
 
 ## 🌈 기여 방법
