@@ -11,7 +11,7 @@
 - 구글 팟케스트: https://dales.link/googlepodcast
 - 유튜브: https://www.youtube.com/channel/UCFu2MVcXSZS2_ey-lVqZasA
 - 팟빵: https://www.podbbang.com/channels/1784466/
-- 오디오클립: 
+- 오디오클립: 승인 대기 중
 
 ## 🌈 기여 방법
 
