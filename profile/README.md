@@ -8,7 +8,6 @@
 - 웹사이트: https://www.dalejule.com
 - 커뮤니티: https://github.com/orgs/DaleJule/discussions
 - 애플 팟케스트: https://dales.link/applepodcast
-- 구글 팟케스트: https://dales.link/googlepodcast
 - 유튜브: https://www.youtube.com/@DaleJule
 - 팟빵: https://www.podbbang.com/channels/1784466/
 - 오디오클립: https://audioclip.naver.com/channels/9977
